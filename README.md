@@ -45,7 +45,6 @@ Antes de ejecutar el sistema CHIPUCOLOGIC, es necesario configurar un entorno vi
 
 Se recomienda utilizar `venv` para crear un entorno aislado:
 
-```bash
 python -m venv chipucologic-env
 source chipucologic-env/bin/activate  # En Linux/macOS
 chipucologic-env\Scripts\activate     # En Windows
@@ -65,4 +64,3 @@ Este script inicializa la interfaz en Gradio y carga las cuatro configuraciones 
 **Cristian Enrique Hernandez Ospino**  
 📧 Email: [chernandezos@unal.edu.co](mailto:chernandezos@unal.edu.co)  
 🎓 Universidad Nacional de Colombia - Sede De La Paz
-
