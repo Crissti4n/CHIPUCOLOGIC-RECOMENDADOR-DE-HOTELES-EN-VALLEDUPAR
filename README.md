@@ -54,6 +54,7 @@ Ejecuta el siguiente comando para instalar todas las dependencias necesarias:
 
 pip install -r requirements.txt
 También puedes instalar manualmente cada biblioteca según sea necesario.
+Adicional a esto debes instalar el modelo LLaMA utilizado "Open-Insurance-LLM-Llama3-8B-Q3_K_M.gguf", anexarlo a la misma carpeta donde tienes tus demás códigos del Rag y luego si proceder con la ejecución mencionada.
 
 ### Ejecución del Sistema
 Para iniciar el sistema, simplemente ejecuta el archivo principal:
