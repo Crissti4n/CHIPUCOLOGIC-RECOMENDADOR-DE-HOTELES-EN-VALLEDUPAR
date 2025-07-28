@@ -1,0 +1,44 @@
+Pregunta,Similitud (0-1),Fiel al contexto,Relevante,Preciso,Suficiente (Recall)
+¿Cuántos hoteles hay en total en Valledupar según la lista?,0.65,False,False,False,False
+¿En qué dirección se encuentra el Hotel Tativan?,0.758,False,False,False,False
+¿Qué rating tiene el Sonesta Valledupar?,0.644,False,False,False,False
+¿Cuál es el número de teléfono del Hotel Sicarare?,0.849,False,False,False,False
+¿Cuáles son los hoteles que están cerca de la Plaza Alfonso López?,0.771,True,False,False,False
+¿Qué hoteles ofrecen vista al río Guatapurí?,0.76,False,False,False,False
+¿Cuáles hoteles están ubicados en el Centro Histórico de Valledupar?,0.822,False,False,False,False
+¿Qué hoteles están cerca del Balneario Hurtado?,0.727,True,False,False,False
+¿Qué hoteles ofrecen piscina al aire libre?,0.706,False,True,True,False
+¿Cuáles hoteles tienen restaurante propio?,0.731,False,False,False,False
+¿Qué hoteles ofrecen servicio de Wi-Fi gratuito?,0.733,False,True,False,False
+¿Cuáles hoteles tienen aire acondicionado en todas las habitaciones?,0.821,False,False,False,False
+¿Qué hoteles ofrecen servicio de transporte al aeropuerto?,0.705,False,False,False,False
+¿Cuántos hoteles tienen rating de cinco estrellas?,0.747,False,False,False,False
+¿Cuáles son todos los hoteles con rating de dos estrellas?,0.82,False,True,False,False
+¿Qué hoteles tienen rating de cuatro estrellas y están cerca del centro?,0.827,False,False,False,False
+¿Cuáles son los hoteles boutique disponibles en Valledupar?,0.822,False,False,False,False
+¿Qué hostales están disponibles en la ciudad?,0.462,False,False,False,False
+¿Qué hoteles ofrecen serenatas de acordeón en las noches?,0.647,False,False,False,False
+¿Cuáles hoteles tienen nombres inspirados en canciones vallenatas?,0.755,False,True,False,False
+¿Qué hoteles tienen decoración inspirada en compositores locales?,0.684,False,False,False,False
+¿Cuál es el hotel llamado 'La Gota Fría' y dónde está ubicado?,0.839,False,False,False,False
+¿Qué hoteles tienen nombres relacionados con la cultura vallenata?,0.844,True,True,False,True
+¿Cuál es la diferencia entre Hotel Mizare I y Hotel Mizare II?,0.768,True,False,False,False
+¿Qué hoteles Hampton están disponibles en Valledupar?,0.763,False,False,True,True
+¿Cuáles son las diferencias entre los hoteles Ayenda en la ciudad?,0.477,False,False,False,False
+¿Qué hoteles Casa están disponibles y cuáles son sus características?,0.605,False,False,True,False
+¿Cuáles son los hoteles más económicos según su rating?,0.738,False,False,False,True
+¿Qué hoteles ofrecen servicio de spa y wellness?,0.84,False,False,False,False
+¿Cuáles hoteles tienen facilidades para personas con discapacidad?,0.616,False,False,False,False
+¿Qué hoteles permiten mascotas?,0.665,False,False,False,True
+¿Cuáles hoteles ofrecen servicio de lavandería?,0.684,False,False,False,False
+¿Qué hoteles tienen salas de reuniones y conferencias?,0.735,False,False,False,False
+¿Cuál es el hotel más cercano al aeropuerto Alfonso López Pumarejo?,0.841,False,False,False,False
+¿Qué hoteles están a menos de 1 km del Coliseo de Valledupar?,0.859,True,False,False,False
+¿Cuáles hoteles están cerca del Centro Comercial Guatapurí?,0.613,False,False,False,False
+¿Qué hoteles ofrecen fácil acceso al mercado artesanal de Nabusimake?,0.784,False,False,False,False
+¿Cuáles son los hoteles ubicados en Pueblo Bello?,0.73,False,False,False,False
+¿Qué hoteles tienen piscina cubierta?,0.689,True,False,False,False
+¿Cuáles hoteles ofrecen desayuno buffet?,0.791,False,False,False,True
+¿Qué hoteles tienen bar o lounge?,0.701,False,False,False,True
+¿Cuáles hoteles ofrecen estacionamiento gratuito?,0.725,False,False,False,False
+¿Qué hoteles tienen recepción 24 horas?,0.574,False,False,False,True
